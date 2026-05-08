@@ -1,4 +1,4 @@
-# Mini Compound dApp
+# Mini Compound dApp1
 
 A decentralized lending and borrowing protocol inspired by Compound Finance.
 
