@@ -154,6 +154,23 @@ Covered scenarios:
 
 ---
 
+## Sepolia Deployment
+
+Contracts deployed successfully on Ethereum Sepolia testnet.
+
+### Contract Addresses
+
+Collateral Token:
+0x300638cE9030215d6AeE7558A1B4Aee667Aa4Ce4
+
+Borrow Token:
+0x91E9B2FcD3cC9D8ca7636F92D3D99FBBBb569e1D
+
+Lending Protocol:
+0x636a1AE0ba076F16A04e82F0A3f0a6b266b307E5
+
+---
+
 # Author
 
 Developed as a DeFi lending protocol project using Solidity and React.
