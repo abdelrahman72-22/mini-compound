@@ -439,18 +439,6 @@ Possible future upgrades:
 
 ---
 
-# Author
-
-Developed by:
-
-Abdelrahman Mohamed
-
-GitHub:
-
-https://github.com/abdelrahman72-22
-
----
-
 # Repository
 
 GitHub Repository:
